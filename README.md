@@ -1,2 +1,7 @@
-# Links-temporary
-https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_YzM1MzMxMjEtZDkwZC00ODJkLTg0MjQtZWYyM2NmMWI0MTRh%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522b984e578-dd3f-4fcd-afea-1c381ab634f3%2522%252c%2522Oid%2522%253a%25221b953957-3cba-4fa4-870d-3ce0434e6735%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=3174cc3c-318b-4ecd-9a65-37f7fe969538&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_Njc5NWZiNDAtYjYzYS00NWJiLWE5NzItYmU2NGU5YTA1YzI0%40thread.v2/0?context=%7b%22Tid%22%3a%225379b76d-5476-4c9f-a04c-fefa48abc331%22%2c%22Oid%22%3a%226230698b-24f5-45f1-bfdb-301f69f4488f%22%7d
+
+
+
+
+
+Links temporary
