@@ -1,5 +1,4 @@
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_Njc5NWZiNDAtYjYzYS00NWJiLWE5NzItYmU2NGU5YTA1YzI0%40thread.v2/0?context=%7b%22Tid%22%3a%225379b76d-5476-4c9f-a04c-fefa48abc331%22%2c%22Oid%22%3a%226230698b-24f5-45f1-bfdb-301f69f4488f%22%7d
-
+https://p7tn464j.r.ap-southeast-1.awstrack.me/L0/https:%2F%2Fwww.hackerearth.com%2Fchallenges%2Ftest%2Fji-hiring-assessment-ii-automotive-lateral-16062022%2F%3Flogin=282214641a340ced9da908a03033a719/1/010e0181777f54ac-fe62b94f-b79d-41df-bbd0-2fc79e035213-000000/J6ICRcL4KkXdn4qBjWiAERZqP7Q=59
 
 
 
